@@ -12,7 +12,7 @@ Hover="Text",
 
 WindowBackground="Background",
 
-WindowShadow="White",
+WindowShadow="Black",
 
 
 WindowTopbarTitle="Text",
@@ -11788,4 +11788,5 @@ return az
 end
 
 return ac
+
 
